@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 flask = "*"
+numpy = "*"
+transformers = "*"
+pillow = "*"
+atexist = "*"
 
 [requires]
 python_version = "3.9"
